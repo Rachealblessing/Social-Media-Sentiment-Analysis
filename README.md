@@ -22,6 +22,7 @@
 
 ### Project overview
 ---
+This project focuses on a building a social media sentiment dashboard to analyze and visualize sentiment data from social media post. The dashboard aggregates and categorizes post based on sentiment score, sentiment labels, post type and languages
 
 
 
