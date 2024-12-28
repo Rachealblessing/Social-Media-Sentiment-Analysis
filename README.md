@@ -39,12 +39,12 @@ This social media sentiment dataset was gotten from kaggle.
 
 ### Data fields 
 ---
-Post Id
-sentiment label
-post date 
-post type 
-sentiment score
-language 
+- Post Id
+- sentiment label
+- post date 
+- post type 
+- sentiment score
+- language 
 
 ### Data visualization 
 ---
