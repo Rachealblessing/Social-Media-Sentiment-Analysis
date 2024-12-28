@@ -44,7 +44,19 @@ This social media sentiment dataset was gotten from kaggle.
 - post date 
 - post type 
 - sentiment score
-- language 
+- language
+
+### Data cleaning and preparation
+---
+- Data loading and inspection
+
+- removal of duplicates
+
+- handling of missing variables
+
+- data formating
+
+  
 
 ### Data visualization 
 ---
